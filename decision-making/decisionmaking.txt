@@ -1,0 +1,14 @@
+1. Conditional
+    a. if statements
+        if CONDITION:
+            statement 1
+            statement 2
+            ...
+            statement N
+            
+    b. if-else statements
+    c. if-elif-else statement (Ladder)
+    d. Nested Conditions
+
+2. Choice
+    a. match statements
