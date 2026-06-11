@@ -1,0 +1,14 @@
+Entry controlled loop ->
+1. while CONDITION:
+	statement 1
+	statement 2
+	... 
+	statement N
+
+2. for init in SEQUENCE:
+	statement 1
+	statement 2
+	... 
+	statement N
+
+Exit Controlled loop -> NOT PRESENT IN PYTHON
