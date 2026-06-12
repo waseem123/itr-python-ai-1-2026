@@ -1,0 +1,20 @@
+Categories of Functions
+    1. No Parameter no return
+    2. Parameterised functions with No return
+    3. Function with return value
+    4. Parameterised functions with return value
+
+Syntax - 
+    def functionName(<arg1, arg2,...,argN>):
+        statement 1
+        statement 2
+        ...
+        statement N
+
+    functionName(<value1, value2,...,valueN>)
+
+Types of Functions in Python - 
+1. Default Argument Functions
+2. Keyword Argument Functions
+3. Arbitrary Argument Functions
+4. Keyword Arbitrary Argument Functions
