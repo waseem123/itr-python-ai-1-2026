@@ -1,0 +1,11 @@
+mylist = ['Samsung','iPhone','Nokia','OnePlus','Vivo','Oppo','Vivo','Redmi','Vivo','Realme','Nothing']
+print(mylist)
+print(mylist[0:6])
+print(mylist[2:4])
+print(mylist[4:5])
+print(mylist[6:1])
+print(mylist[3:3])
+print(mylist[2:])
+print(mylist[:2])
+print(mylist[:])
+print(mylist[1:10:4])
