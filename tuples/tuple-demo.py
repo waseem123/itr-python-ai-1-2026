@@ -1,0 +1,11 @@
+mytuple = (100,200,300,400,500)
+print(mytuple)
+print(type(mytuple))
+print(len(mytuple))
+print(mytuple[1])
+
+demo = tuple(('Blue','Black','Orange','Red','Green','Yellow'))
+print(demo)
+print(type(demo))
+print(len(demo))
+print(demo[4])
