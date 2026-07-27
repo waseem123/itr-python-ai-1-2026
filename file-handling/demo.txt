@@ -1,0 +1,2 @@
+This is an updated data written to the fileK means comes under Unsupervised learning and is also called clustering algorithm.
+K means comes under Unsupervised learning and is also called clustering algorithm.
