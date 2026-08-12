@@ -1,7 +1,8 @@
 rollno,name,city,age,marks
 101,Roger,California,20,85
-102,Sam,London,22,81
-103,Peter,Paris,19,95
+102,Sam,,22,
+103,Peter,Paris,,95
 104,Alex,LA,18,91
-105,Alexa,San Fransisco,21,92
-106,John,New York,20,88
+105,Alexa,San Fransisco,21,
+106,John,,,88
+106,George,LA,22,50
